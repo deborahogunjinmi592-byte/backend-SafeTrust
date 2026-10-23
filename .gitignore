@@ -14,9 +14,6 @@ __pycache__/
 node_modules/
 venv/
 .venv/
-.env
-.env.local
-.env.*
 !.env.example
 !.env.test.example
 
@@ -100,3 +97,4 @@ crates/target/
 /tests/karate/src/test/resources/**/*.js
 .gitignore
 branch_structure.json
+config.bat
